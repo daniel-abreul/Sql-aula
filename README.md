@@ -1,4 +1,4 @@
-# Sql-aulaSELECT 
+# Sql-aula-SELECT from WORLD
 name, continent, population FROM world
 SELECT name FROM world
 
